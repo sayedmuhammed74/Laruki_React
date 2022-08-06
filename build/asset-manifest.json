@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Laruki_React/static/css/main.983a2b63.chunk.css",
+    "main.js": "/Laruki_React/static/js/main.d864892a.chunk.js",
+    "main.js.map": "/Laruki_React/static/js/main.d864892a.chunk.js.map",
+    "runtime~main.js": "/Laruki_React/static/js/runtime~main.c59d258d.js",
+    "runtime~main.js.map": "/Laruki_React/static/js/runtime~main.c59d258d.js.map",
+    "static/js/2.eefe13d5.chunk.js": "/Laruki_React/static/js/2.eefe13d5.chunk.js",
+    "static/js/2.eefe13d5.chunk.js.map": "/Laruki_React/static/js/2.eefe13d5.chunk.js.map",
+    "index.html": "/Laruki_React/index.html",
+    "precache-manifest.2fa3ffbf1733f21a106a069cd934a5b5.js": "/Laruki_React/precache-manifest.2fa3ffbf1733f21a106a069cd934a5b5.js",
+    "service-worker.js": "/Laruki_React/service-worker.js",
+    "static/css/main.983a2b63.chunk.css.map": "/Laruki_React/static/css/main.983a2b63.chunk.css.map",
+    "static/media/174855.png": "/Laruki_React/static/media/174855.4a8c2347.png",
+    "static/media/cli.png": "/Laruki_React/static/media/cli.f496512b.png",
+    "static/media/cloud.png": "/Laruki_React/static/media/cloud.9ed3fec3.png",
+    "static/media/docs.png": "/Laruki_React/static/media/docs.c300cf81.png",
+    "static/media/facebook-512.png": "/Laruki_React/static/media/facebook-512.1c90998b.png",
+    "static/media/logo-twitter-icon-symbol-0.png": "/Laruki_React/static/media/logo-twitter-icon-symbol-0.0c247b80.png",
+    "static/media/mark-github-512.png": "/Laruki_React/static/media/mark-github-512.969d06ca.png",
+    "static/media/server.png": "/Laruki_React/static/media/server.9a37db31.png",
+    "static/media/server2.png": "/Laruki_React/static/media/server2.1b24f9d4.png"
+  }
+}
